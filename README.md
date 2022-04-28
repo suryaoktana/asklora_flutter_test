@@ -1,7 +1,7 @@
 # asklora_flutter_test
 Senior Mobile Developer Assessment - Cryptocurrency Market Watch List
 
-#Polygon API Rule
+# Polygon API Rule
 - Make sure you are running with only 1 device simultaneously
   due to a limited amount number of websocket connection
 
