@@ -3,12 +3,12 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 class CustomStyle {
-  static double fontSizeHeader = 20;
+  static double fontSizeHeader = 19;
   static double fontSizeJumbo = 26;
-  static double fontSizeTitle = 19;
-  static double fontSizeSubTitle = 18;
-  static double fontSizeNormal = 17;
-  static double fontSizeSmall = 15;
+  static double fontSizeTitle = 18;
+  static double fontSizeSubTitle = 17;
+  static double fontSizeNormal = 16;
+  static double fontSizeSmall = 14;
   static double horizontalMargin = 15;
   static double topMarginPage = 24;
   static int decimalPlaces = 3;

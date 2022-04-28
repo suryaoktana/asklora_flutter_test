@@ -121,6 +121,7 @@ class TokenController extends GetxController with WidgetsBindingObserver {
       processData(message);
       }, onDone: () {
         wsConnected = false;
+        initiateWebSocket();
         debugPrint('ws channel closed');
       },
     );
